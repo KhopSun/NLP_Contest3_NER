@@ -1,3 +1,4 @@
 *.jsonl
 *.docx
 __pycache__
+models/
