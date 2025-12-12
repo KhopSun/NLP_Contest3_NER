@@ -1,4 +1,4 @@
-# Named Entity Recognition (NER) for MultiCoNER 2 English Dataset
+# Named Entity Recognition (NER) for English Dataset
 
 A comprehensive exploration of Named Entity Recognition models for fine-grained entity classification, implementing and comparing approaches from classical probabilistic models to state-of-the-art knowledge-augmented transformers.
 
